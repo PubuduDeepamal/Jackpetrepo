@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "Labdoar retriver Puppies",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/318/thumb-320x240-e34eb194ccce6fba248bae42cf4a444b.jpg",
+    "imageAlt": "Labdoar retriver Puppies",
+    "price": "Rs 22200.00",
+    "offer": ""
+  },
+  {
+    "id": 2,
+    "name": "Persian kitten",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/319/thumb-320x240-5f0ccad44f469dfdc44403722a820b3a.jpg",
+    "imageAlt": "Special Cat",
+    "price": "Rs 2,5000.00",
+    "offer": ""
+  },
+  {
+    "id": 3,
+    "name": "Rottweiler pupies",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/325/thumb-320x240-25af66f50461d3bb9682f73e0e554aec.jpg",
+    "imageAlt": "Rottweiler",
+    "price": "Rs 55000.00",
+    "offer": ""
+  },
+  {
+    "id": 4,
+    "name": "Golden retrieve puppies",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/324/thumb-320x240-c3fdf46ebd8f43222f52159b165f17a3.jpg",
+    "imageAlt": "CGolden retrieve puppies",
+    "price": "Rs 1,2000.00",
+    "offer": ""
+  },
+  {
+    "id": 5,
+    "name": "Purbred Shih tzu Puppies",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/320/thumb-320x240-7d501f3ab509068ebb2eb001565f05a5.jpeg",
+    "imageAlt": "Purbred Shih tzu Puppies",
+    "price": "Rs 3,9000.00",
+    "offer": ""
+  },
+  {
+    "id": 6,
+    "name": "Bulmastif male for crossing",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/316/thumb-320x240-bb8ad5711a32421aa1b8f3c3c086d40f.jpeg",
+    "imageAlt": "Bulmastif male for crossing",
+    "price": "Rs 1,9000.00",
+    "offer": ""
+  },
+  {
+    "id": 7,
+    "name": "Shih Tzu Male for stud ",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/301/thumb-320x240-24134d2a5366aabc21f509286059027c.jpg",
+    "imageAlt": "Shih Tzu Male for stud ",
+    "price": "Rs 2,2000.00",
+    "offer": ""
+  },
+  {
+    "id": 8,
+    "name": "Imported Labrador Retriever",
+    "href": "#",
+    "imageSrc": "https://petshop.lk/storage/files/lk/297/thumb-320x240-24bea1ffaf0de75404ecd4b9ae98642d.jpg",
+    "imageAlt": "Imported Labrador Retriever Male",
+    "price": "Rs 33,000.00",
+    "offer": ""
+  }
+]

@@ -1,0 +1,43 @@
+
+[
+    {
+      "id": 1,
+      "name": "Trixie Chicken Flags",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/31588_1024x1024.jpg?v=1680686334",
+      "imageAlt": "Trixie Chicken Flags",
+      "price": "Rs 7,400.00",
+      "newprice": "Rs 6000.00",
+      "offer": "(500g)"
+    },
+    {
+      "id": 2,
+      "name": "Trixie Omega Stripes",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/31536_1024x1024.jpg?v=1680338496",
+      "imageAlt": "Trixie Omega Stripes",
+      "price": "Rs 2,500.00",
+      "newprice": "Rs 2200.00",
+      "offer": "(100g)"
+    },
+    {
+      "id": 3,
+      "name": "Trixie Milk Drops",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/31623_1024x1024.jpg?v=1680686973",
+      "imageAlt": "Trixie Milk Drops",
+      "price": "Rs 800.00",
+      "newprice": "Rs 500.00",
+      "offer": "(200g)"
+    },
+    {
+      "id": 4,
+      "name": "Cat Crispy Pouches With Chicken",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/3099558_1024x1024.jpg?v=1681108099",
+      "imageAlt": "Cat Crispy Pouches With Chicken",
+      "price": "Rs 1,200.00",
+      "newprice": "Rs 800.00",
+      "offer": ""
+    }
+  ]

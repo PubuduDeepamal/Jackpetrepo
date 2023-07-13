@@ -1,0 +1,75 @@
+
+[
+    {
+      "id": 1,
+      "name": "Trixie Cavo Leash",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/2_2_11zon_2_11zon_59d2bba4-e889-44cc-9a11-c7ab9b4305fa_640x640.jpg?v=1668074924",
+      "imageAlt": "Trixie Cavo Leash",
+      "price": "Rs 5,400.00",
+      "offer": ""
+    },
+    {
+      "id": 2,
+      "name": "Trixie Dog Toothpaste with Mint",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/2557_1024x1024.jpg?v=1681718386",
+      "imageAlt": "Trixie Dog Toothpaste with Mint",
+      "price": "Rs 2,500.00",
+      "offer": ""
+    },
+    {
+      "id": 3,
+      "name": "Trixie Denta Fun Rugby Ball",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/33132_1024x1024.jpg?v=1680949062",
+      "imageAlt": "Trixie Denta Fun Rugby Ball",
+      "price": "Rs 4800.00",
+      "offer": ""
+    },
+    {
+      "id": 4,
+      "name": "Trixie Softline Elegance Collar",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/115712_1024x1024.jpg?v=1680432884",
+      "imageAlt": "Trixie Softline Elegance Collar",
+      "price": "Rs 5,200.00",
+      "offer": ""
+    },
+    {
+      "id": 5,
+      "name": "Trixie Bottle with Bowl",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/8_c0e13c4e-56ce-46ec-80f0-73ce3cabe90e_1024x1024.jpg?v=1680428718",
+      "imageAlt": "Trixie Bottle with Bowl",
+      "price": "Rs 3,900.00",
+      "offer": ""
+    },
+    {
+      "id": 6,
+      "name": "Trixie Tooth Brush 4 Pcs",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/2558_1024x1024.jpg?v=1681718424",
+      "imageAlt": "Trixie Tooth Brush 4 Pcs",
+      "price": "Rs 1,900.00",
+      "offer": ""
+    },
+    {
+      "id": 7,
+      "name": "Trixie Stainless Steel Bowl ",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/24854_1024x1024.jpg?v=1680432335",
+      "imageAlt": "Trixie Stainless Steel Bowl ",
+      "price": "Rs 2,200.00",
+      "offer": ""
+    },
+    {
+      "id": 8,
+      "name": "Trixie Joey Bed",
+      "href": "#",
+      "imageSrc": "https://cdn.shopify.com/s/files/1/0045/6055/1971/products/37006_1024x1024.jpg?v=1681035232",
+      "imageAlt": "Trixie Joey Bed",
+      "price": "Rs 33,000.00",
+      "offer": ""
+    }
+  ]
